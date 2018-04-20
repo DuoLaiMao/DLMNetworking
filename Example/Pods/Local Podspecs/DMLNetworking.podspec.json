@@ -1,0 +1,22 @@
+{
+  "name": "DMLNetworking",
+  "version": "0.1.0",
+  "summary": "A short description of DMLNetworking.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/YangJian/DMLNetworking",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "YangJian": "yangjian@baijiahulian.com"
+  },
+  "source": {
+    "git": "https://github.com/YangJian/DMLNetworking.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "DMLNetworking/Classes/**/*"
+}

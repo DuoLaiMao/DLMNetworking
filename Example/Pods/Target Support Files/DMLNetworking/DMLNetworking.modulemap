@@ -1,0 +1,6 @@
+framework module DMLNetworking {
+  umbrella header "DMLNetworking-umbrella.h"
+
+  export *
+  module * { export * }
+}

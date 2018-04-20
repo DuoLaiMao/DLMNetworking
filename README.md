@@ -22,7 +22,7 @@ pod 'DMLNetworking'
 
 ## Author
 
-YangJian, yangjian@baijiahulian.com
+YangJian, 130yangjian@163.com
 
 ## License
 

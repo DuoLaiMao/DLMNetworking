@@ -1,0 +1,16 @@
+PODS:
+  - DMLNetworking (0.1.0)
+
+DEPENDENCIES:
+  - DMLNetworking (from `../`)
+
+EXTERNAL SOURCES:
+  DMLNetworking:
+    :path: ../
+
+SPEC CHECKSUMS:
+  DMLNetworking: b0c91585f4bedb6918ece52e5ef79eb3ef215b1d
+
+PODFILE CHECKSUM: 980140b837fbad5b465056fc7cafa295a510da77
+
+COCOAPODS: 1.4.0
